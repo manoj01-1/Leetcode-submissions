@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2035-count-sub-islands](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [2035-count-sub-islands](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [2035-count-sub-islands](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -80,11 +83,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [2035-count-sub-islands](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [2035-count-sub-islands](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2035-count-sub-islands) |
 ## Linked List
 |  |
 | ------- |
