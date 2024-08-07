@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -128,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
