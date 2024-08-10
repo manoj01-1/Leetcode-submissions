@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0120-triangle) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0120-triangle) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0055-jump-game) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
