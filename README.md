@@ -148,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
