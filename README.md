@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
@@ -159,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1908-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
