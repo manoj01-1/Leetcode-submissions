@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
+| [0646-maximum-length-of-pair-chain](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0120-triangle) |
+| [0646-maximum-length-of-pair-chain](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0055-jump-game) |
+| [0646-maximum-length-of-pair-chain](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
