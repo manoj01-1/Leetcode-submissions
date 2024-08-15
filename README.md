@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2035-count-sub-islands](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2035-count-sub-islands) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0890-lemonade-change](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
