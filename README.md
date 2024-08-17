@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1829-maximum-units-on-a-truck](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 | [2035-count-sub-islands](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1829-maximum-units-on-a-truck](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0890-lemonade-change) |
+| [1829-maximum-units-on-a-truck](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
