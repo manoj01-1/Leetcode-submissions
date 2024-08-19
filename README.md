@@ -121,17 +121,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0273-integer-to-english-words](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0394-decode-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
