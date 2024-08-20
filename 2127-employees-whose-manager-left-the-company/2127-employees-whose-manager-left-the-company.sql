@@ -1,10 +1,8 @@
-# Write your MySQL query statement below
-with cte as
-(select employee_id,manager_id
-from Employees 
-where salary<30000)
-
-select employee_id
-from cte 
-where manager_id not in (select employee_id from Employees)
-order by employee_id;
+SELECT e.employee_id
+FROM Employees e
+WHERE e.salary < 30000
+AND e.manager_id NOT IN (
+    SELECT e2.employee_id
+    FROM Employees e2
+)
+ORDER BY e.employee_id;
