@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0870-magic-squares-in-grid](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0273-integer-to-english-words](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0394-decode-string) |
@@ -236,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
