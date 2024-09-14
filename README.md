@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0890-lemonade-change) |
+| [0909-stone-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0909-stone-game) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1829-maximum-units-on-a-truck](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
+| [0909-stone-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0909-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
+| [0909-stone-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0909-stone-game) |
 ## Database
 |  |
 | ------- |
@@ -246,4 +249,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
