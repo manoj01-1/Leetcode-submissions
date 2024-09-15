@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,4 +254,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0909-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
