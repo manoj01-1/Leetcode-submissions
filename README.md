@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [1829-maximum-units-on-a-truck](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -277,4 +279,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1013-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
