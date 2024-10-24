@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0394-decode-string) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
