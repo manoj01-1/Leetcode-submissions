@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0394-decode-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3451-string-compression-iii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3451-string-compression-iii) |
 ## Counting
 |  |
 | ------- |
