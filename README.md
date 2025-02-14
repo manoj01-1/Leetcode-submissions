@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
@@ -171,11 +172,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0101-symmetric-tree) |
 ## Greedy
@@ -290,4 +293,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
