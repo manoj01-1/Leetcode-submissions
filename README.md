@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [2035-count-sub-islands](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
@@ -177,12 +178,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0101-symmetric-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0101-symmetric-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Bucket Sort
 |  |
 | ------- |
