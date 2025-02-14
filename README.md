@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2417-the-latest-time-to-catch-a-bus) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Binary Search Tree
 |  |
