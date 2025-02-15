@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0695-max-area-of-island) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Greedy
 |  |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
