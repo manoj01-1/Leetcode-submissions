@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1829-maximum-units-on-a-truck](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 | [2035-count-sub-islands](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2035-count-sub-islands) |
+| [2107-find-unique-binary-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2417-the-latest-time-to-catch-a-bus) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0870-magic-squares-in-grid](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2107-find-unique-binary-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0394-decode-string) |
+| [2107-find-unique-binary-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3451-string-compression-iii) |
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
+| [2107-find-unique-binary-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
