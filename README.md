@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0164-maximum-gap) |
 | [0419-battleships-in-a-board](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
+| [0503-next-greater-element-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0695-max-area-of-island) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -339,4 +341,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
