@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0909-stone-game) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1829-maximum-units-on-a-truck](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1829-maximum-units-on-a-truck) |
 | [2035-count-sub-islands](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2035-count-sub-islands) |
 | [2107-find-unique-binary-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Database
 |  |
 | ------- |
@@ -332,4 +335,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0164-maximum-gap) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
