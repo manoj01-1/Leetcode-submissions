@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/manoj01-1/Leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## Sorting
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0227-basic-calculator-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
