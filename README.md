@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
@@ -350,4 +351,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
