@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0394-decode-string) |
 | [2107-find-unique-binary-string](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/manoj01-1/Leetcode-submissions/tree/master/3451-string-compression-iii) |
 ## Counting
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manoj01-1/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manoj01-1/Leetcode-submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Game Theory
 |  |
 | ------- |
